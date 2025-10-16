@@ -24,7 +24,7 @@ const Benefits = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold mb-6">
-            Why Choose TailorVerse?
+            Why Choose SilkenWay?
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
             Experience the difference of truly personalized fashion

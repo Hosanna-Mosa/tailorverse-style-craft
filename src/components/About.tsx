@@ -10,7 +10,7 @@ const About = () => {
           <div className="w-20 h-1 bg-gradient-to-r from-accent to-gold-dark mx-auto mb-8"></div>
           
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-6 animate-fade-in">
-            At <span className="font-semibold text-foreground">TailorVerse</span>, we believe that clothing should be as unique as the person wearing it. 
+            At <span className="font-semibold text-foreground">SilkenWay</span>, we believe that clothing should be as unique as the person wearing it.
             By blending advanced measurement technology with artisanal craftsmanship, we create garments that deliver unparalleled comfort, 
             confidence, and style.
           </p>

@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           {/* Brand */}
           <div className="md:col-span-2">
-            <h3 className="text-3xl font-display font-bold mb-4">TailorVerse</h3>
+            <h3 className="text-3xl font-display font-bold mb-4">SilkenWay</h3>
             <p className="text-primary-foreground/80 mb-6 max-w-md leading-relaxed">
               Bespoke clothing that combines cutting-edge technology with artisanal craftsmanship. 
               Your style, perfectly tailored.
@@ -97,7 +97,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/60 text-sm">
-              © 2025 TailorVerse. All rights reserved.
+              © 2025 SilkenWay. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-primary-foreground/60 hover:text-accent transition-colors">
