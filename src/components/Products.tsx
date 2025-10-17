@@ -3,6 +3,7 @@ import blazerImg from "@/assets/product-blazer.jpg";
 import shirtImg from "@/assets/product-shirt.jpg";
 import trousersImg from "@/assets/product-trousers.jpg";
 import dressImg from "@/assets/product-dress.jpg";
+import kurtaSetImg from "@/assets/kurta-set.jpeg";
 
 const products = [
   {
@@ -32,6 +33,13 @@ const products = [
     description: "Elegant dress crafted to complement your silhouette",
     price: "From $429",
     image: dressImg,
+  },
+  {
+    id: 5,
+    name: "Kurta Set",
+    description: "Elegant dress crafted to complement your silhouette",
+    price: "From $569",
+    image: kurtaSetImg,
   },
 ];
 
